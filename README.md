@@ -10,7 +10,6 @@ Project Presentation: On June 11, 2023, we had the privilege of presenting our p
 
 Explore the Project: You can get a sneak peek of our project through a gameplay video here:
 https://drive.google.com/file/d/1OrzflVyAiz72oLkCkzVIlICu1v9fqW2u/view?usp=drive_link
-{% include googleDrivePlayer.html id=page.1OrzflVyAiz72oLkCkzVIlICu1v9fqW2u/preview %}
 
 and even download and play it on your PC from here:
 https://drive.google.com/drive/folders/132xhTbfZpXzsdRk-oTlQKbccAvFQBOCe?usp=drive_link
